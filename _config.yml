@@ -1,5 +1,5 @@
 # Site
-title: "47billion"
+name: "47billion"
 remote_theme: wowthemesnet/mediumish-theme-jekyll
 description: "47Billion official blog"
 meta_description: "User experience and design, Analytics and Mobile application development."
@@ -10,19 +10,19 @@ production_url : https://47billion.github.io/blog
 BASE_PATH : https://47billion.com/blog
 
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: '47billion-1'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Rajeev:
+    name: Rajeev
+    display_name: Rajeev
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: hello@47billion.com
+    web: https://47billion.com
+    twitter: https://twitter.com/47billion
+    description: "I am a Co-founder and Chief Architect at 47Billion.com. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
   john:
     name: John
     display_name: John

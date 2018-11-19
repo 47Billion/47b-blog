@@ -1,6 +1,6 @@
 # Site
 name: "47billion"
-remote_theme: wowthemesnet/mediumish-theme-jekyll
+remote_theme: 47billion/mediumish-theme-jekyll
 description: "47Billion official blog"
 meta_description: "User experience and design, Analytics and Mobile application development."
 logo: 'assets/images/47Billion.png'

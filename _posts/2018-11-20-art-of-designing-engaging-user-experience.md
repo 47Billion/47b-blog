@@ -52,4 +52,4 @@ Both customization and personalization show content and features to specific cha
 ### Humanize digital experiences
 User interfaces using text chat bots and voice assistants that mimic natural human conversations are more engaging than traditional form-based user interfaces. Such user interface design requires deep understanding of natural language interactions so as to guide user through proper choices without causing confusion.
 
-* This article is a part of series of articles related to Design Thinking and User Experiences. At 47Billion, we specialize in helping companies build awesome products. If you are looking for a an experienced team to build your solutions, please contact us at info@47billion.com. *
+*This article is a part of series of articles related to Design Thinking and User Experiences. At 47Billion, we specialize in helping companies build awesome products. If you are looking for a an experienced team to build your solutions, please contact us at info@47billion.com.*

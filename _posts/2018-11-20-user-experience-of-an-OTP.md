@@ -3,7 +3,7 @@ layout: post
 title:  "User experience of an OTP"
 author: rajeev
 categories: [ user experience, user interface design ]
-image: assets/images/2018-11-20-user-experience-of-an-OTP-1.png
+image: assets/images/2018-11-20-user-experience-of-an-OTP-1.jpeg
 featured: true
 hidden: true
 ---

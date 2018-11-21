@@ -4,8 +4,6 @@ title:  "Evolution of our conversation with machines"
 author: rajeev
 categories: [ user interface design, user experience ]
 image: assets/images/2018-11-21-evolution-of-our-conversation-with-machines-1.png
-featured: false
-hidden: true
 ---
 Let us fill a paper form
 

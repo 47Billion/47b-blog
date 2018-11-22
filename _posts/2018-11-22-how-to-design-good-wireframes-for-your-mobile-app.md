@@ -11,16 +11,16 @@ Wireframes help fine tune the product flow and design before the hard part of de
 
 To design good wireframes, the user interface designer need to follow these steps:
 
-#1. Understand use cases
+**1. Understand use cases**
 Use cases describe product features from the point of view of end user. Analyzing them is the first step that should be taken into consideration while developing wireframes.
 
-#2. Model user personas
-User modeling is essential because it defines the user of the product and goals they want to achieve by using the product. User modeling is done by creating personas with scenarios.
-
-<figure text-align="center">
+<figure>
   <img src="{{site.baseurl}}/assets/images/2018-11-22-how-to-design-good-wireframes-for-your-mobile-app-1.png" alt="User interface design process"/>
   <figcaption>User interface design process</figcaption>
 </figure>
+
+**2. Model user personas**
+User modeling is essential because it defines the user of the product and goals they want to achieve by using the product. User modeling is done by creating personas with scenarios.
 
 Personas are the fictional representation of the intended users with name, picture, relevant roles and behavioral characteristics. They allow designers to create wireframes and information architecture targeted towards specific demographics considering context of the product.
 
@@ -33,8 +33,8 @@ Personas are the fictional representation of the intended users with name, pictu
 Grouping information together allows designer to collect context-specific information and simplifies user interactions. Card sorting is a great way to group information together.
 
 <figure>
-  <img src="i{{site.baseurl}}/assets/images/2018-11-22-how-to-design-good-wireframes-for-your-mobile-app-3.png" alt="Workflow to define information architecture"/>
-  <figcaption>Workflow to define information architecture</figcaption>
+  <img src="{{site.baseurl}}/assets/images/2018-11-22-how-to-design-good-wireframes-for-your-mobile-app-3.png" alt="Group information"/>
+  <figcaption>Group information</figcaption>
 </figure>
 
 #4. Define interactive flow
@@ -61,7 +61,7 @@ The high-fidelity mockups includes information about original content, color, fo
 Micro-interactions add subtle visual effects which can enhance user experience. The interactions should be used sparingly and at the right places to be impactful.
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2018-11-22-how-to-design-good-wireframes-for-your-mobile-app-5.png" alt="Micro interactions in app"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-22-how-to-design-good-wireframes-for-your-mobile-app-6.gif" alt="Micro interactions in app"/>
   <figcaption>Micro interactions in app</figcaption>
 </figure>
 

@@ -3,9 +3,13 @@
 
 // start content
 .mediumnavigation{
-    .navbar-brand img {
-        max-height: 40px;
-        margin-right: 0px;
+    .navbar-brand{
+        padding: 8px 0;
+        margin-left: -5px;
+        img {
+            max-height: 40px;
+            margin-right: 0px;
+        }
     }
 }
 .alertbar-logo{

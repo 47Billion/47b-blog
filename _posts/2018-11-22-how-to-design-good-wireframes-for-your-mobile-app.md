@@ -17,7 +17,7 @@ Use cases describe product features from the point of view of end user. Analyzin
 #2. Model user personas
 User modeling is essential because it defines the user of the product and goals they want to achieve by using the product. User modeling is done by creating personas with scenarios.
 
-<figure>
+<figure text-align="center">
   <img src="{{site.baseurl}}/assets/images/2018-11-22-how-to-design-good-wireframes-for-your-mobile-app-1.png" alt="User interface design process"/>
   <figcaption>User interface design process</figcaption>
 </figure>

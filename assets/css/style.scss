@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
+// start content
 .mediumnavigation{
     .navbar-brand img {
         max-height: 40px;
@@ -13,3 +12,16 @@
     max-height: 30px;
     margin-top: -5px;
 }
+figure {
+    display: inline-block;
+    text-align: center;
+    border: 1px dotted gray;
+    margin: 5px; /* adjust as needed */
+    img {
+        vertical-align: top;
+      }
+    figcaption {
+        border: 1px dotted blue;
+      }
+  }
+  

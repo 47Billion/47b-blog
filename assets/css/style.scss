@@ -2,7 +2,17 @@
 ---
 
 // start content
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: Montserrat;
+}
+.fixed-top {
+    height: 71px;
+}
 .mediumnavigation{
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
     .navbar-brand{
         padding: 8px 0;
         margin-left: -5px;

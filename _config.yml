@@ -1,7 +1,7 @@
 # Site
 name: "47billion"
 remote_theme: 47billion/mediumish-theme-jekyll
-description: "47Billion official blog"
+description: "Building intelligent communities for a better tomorrow"
 meta_description: "User experience and design, Analytics and Mobile application development."
 logo: 'assets/images/47Billion.png'
 favicon: 'assets/images/favicon.ico'
@@ -22,15 +22,23 @@ authors:
     email: hello@47billion.com
     web: https://47billion.com
     twitter: https://twitter.com/47billion
-    description: "I am a Co-founder and Chief Architect at 47Billion.com. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
-  john:
-    name: John
-    display_name: John
+    description: "I am a Co-founder and Chief Architect at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
+  atul:
+    name: Atul
+    display_name: Atul
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: hello@47billion.com
+    web: https://www.47billion.com
+    twitter: https://twitter.com/47billion
+    description: "I am a technical lead for mobile app development at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
+  satish:
+    name: Satish
+    display_name: Satish
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: hello@47billion.com
+    web: https://www.47billion.com
+    twitter: https://twitter.com/47billion
+    description: "I am a devops lead at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
 
 # Plugins
 plugins: 

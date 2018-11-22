@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.mediumnavigation{
+    .navbar-brand img {
+        max-height: 40px;
+        margin-right: 0px;
+    }
+}
+.alertbar-logo{
+    max-height: 30px;
+    margin-top: -5px;
+}

@@ -65,16 +65,13 @@
 figure {
     display: inline-block;
     text-align: center;
-    width: 400px;
-    height: 250px;
-    line-height: 250px;
     border: 1px dotted gray;
     margin: 5px; /* adjust as needed */
     img {
         vertical-align: top;
     }
     figcaption {
-        border: 1px dotted black;
+        border: 1px dotted gray;
     }
 }
 

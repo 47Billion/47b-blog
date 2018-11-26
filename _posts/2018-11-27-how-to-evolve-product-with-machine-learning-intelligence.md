@@ -3,7 +3,7 @@ layout: post
 title:  "How to evolve product with machine learning intelligence"
 author: rajeev
 categories: [ machine learning, architecture ]
-image: assets/images/2018-11-27-how-to-evolve-product-with-machine-learning-intelligence-1.png
+image: assets/images/2018-11-27-how-to-evolve-product-with-machine-learning-intelligence-1.jpeg
 featured: false
 hidden: false
 ---

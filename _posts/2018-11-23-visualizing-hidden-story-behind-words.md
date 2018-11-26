@@ -2,8 +2,8 @@
 layout: post
 title:  "Visualizing hidden story behind words"
 author: rajeev
-categories: [ user interface design, user experience ]
-image: /assets/images/2018-11-23-visualizing-hidden-story-behind-words-1.png
+categories: [ big data analytics, user interface design, user experience ]
+image: assets/images/2018-11-23-visualizing-hidden-story-behind-words-1.png
 featured: false
 hidden: false
 ---
@@ -29,6 +29,7 @@ Below are the various ways you can extract and associate meta-data from the capt
 * Detect sentiment of a text in terms of polarity (positive or negative opinion) and subjectivity (opinion or supported by facts and figures from legitimate sources)
 * Analyze sentiments towards entities found in the text or other media
 * Analyze sentiments towards each aspect of an entity. For example, for a hotel, aspects are staff, location, nearby places etc.
+
 ### Meta-data aggregation
 The collected meta-data on each source can be aggregated and analyzed on different dimensions based on duration, sources, clusters, entities, keywords, authors, sentiments, topics, aspects etc. This aggregation can run daily or as often as needed to reflect real-time information. Such aggregations help in discovering patterns and trends which can then be visualized easily and drilled down to narrow details.
 
@@ -38,7 +39,7 @@ Here are some of the interesting ways you can visualize meta-data extracted from
 #### Media Polarization
 This graph shows positive and negative sentiments of top media outlets publishing the stories about a particular entity. This is shown as a bar graph for each media outlet (0—5 in the graph below) showing average sentiment score of important entities within all the articles the media outlet created on the keyword.
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-2.jpeg" alt="Media Polarization Chart"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-2.jpeg" alt="Media Polarization Chart"/>
   <figcaption>Media Polarization Chart</figcaption>
 </figure>
 
@@ -46,7 +47,7 @@ This graph shows positive and negative sentiments of top media outlets publishin
 This scatterplot plots subjectivity against polarity. Each bubble represents an entity, with size denoting the frequency of occurrence and color represents clusters in which it is found. In this case, the outliers shows entities with highly bias (highly subjective and polarized sentiments).
 
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-3.jpeg" alt="Entity in a cluster with subjectivity and polarity on a scatterplot (D3.js)"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-3.jpeg" alt="Entity in a cluster with subjectivity and polarity on a scatterplot (D3.js)"/>
   <figcaption>Entity in a cluster with subjectivity and polarity on a scatterplot (D3.js)</figcaption>
 </figure>
 
@@ -54,7 +55,7 @@ This scatterplot plots subjectivity against polarity. Each bubble represents an 
 This graph shows association between articles and entities related to a keyword. This force-directed graph shows keyword at the center connected to all the articles which in turn are connected to entities found inside the article. This is a nice way to visualize various relationships between keywords, articles and entities.
 
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-4.jpeg" alt="Keyword-Entity relationship on force directed graph (D3.js)"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-4.jpeg" alt="Keyword-Entity relationship on force directed graph (D3.js)"/>
   <figcaption>Keyword-Entity relationship on force directed graph (D3.js)</figcaption>
 </figure>
 
@@ -63,7 +64,7 @@ This graph shows association between articles and entities related to a keyword.
 This chart shows how subjective or opinionated is the source for a particular keyword. This can tell whether a source might be inherently biased towards a position with respect to an entity or event.
 
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-5.png" alt="Subjectivity by source on bar graph (Microsoft PowerBI)"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-5.png" alt="Subjectivity by source on bar graph (Microsoft PowerBI)"/>
   <figcaption>Subjectivity by source on bar graph (Microsoft PowerBI)</figcaption>
 </figure>
 
@@ -72,7 +73,7 @@ This chart shows how subjective or opinionated is the source for a particular ke
 This visualization can show current topics of importance related to a keyword. For example, in the chart below, you can see that “immigration” is an important topic for the keyword search related to “Trump”.
 
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-1.png" alt="Tag cloud of important words from a source related to a keyword"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-1.png" alt="Tag cloud of important words from a source related to a keyword"/>
   <figcaption>Tag cloud of important words from a source related to a keyword</figcaption>
 </figure>
 
@@ -81,7 +82,7 @@ This visualization can show current topics of importance related to a keyword. F
 A candlestick chart typically used to track stock movement, is a nice way of showing recent subjectivity and polarity trends related to a keyword. Based on these trend lines, you can find if a particular person, event, company is developing into a highly emotional and biased story and whether the bias is positive or negative.
 
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-6.jpeg" alt="Candlestick chart for daily trends"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-6.jpeg" alt="Candlestick chart for daily trends"/>
   <figcaption>Candlestick chart for daily trends</figcaption>
 </figure>
 
@@ -95,7 +96,7 @@ Dashboards
 Various combinations of above visualizations can be combined together in a dashboard. Such a dashboard can provide an interactive way to visualize public perception and impact of on-going stories: A true visual story behind words on the web!
 
 <figure>
-  <img src="{{site.url}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-7.png" alt="Trends on dashboard"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-23-visualizing-hidden-story-behind-words-7.png" alt="Trends on dashboard"/>
   <figcaption>Trends on dashboard</figcaption>
 </figure>
 

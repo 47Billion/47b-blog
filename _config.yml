@@ -5,6 +5,7 @@ description: "Building intelligent communities for a better tomorrow"
 meta_description: "User experience and design, Analytics and Mobile application development."
 logo: 'assets/images/47Billion.png'
 favicon: 'assets/images/favicon.ico'
+siteurl: "https://47billion.com"
 baseurl: "/blog"
 production_url : https://47billion.github.io/blog
 BASE_PATH : https://47billion.com/blog

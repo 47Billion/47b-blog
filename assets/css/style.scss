@@ -6,6 +6,29 @@
 .fixed-top {
     height: 71px;
 }
+@media (min-width: 992px)
+{
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 10px 15.25px;
+    }
+}
+.navbar-collapse.show{
+    background: #fff;
+    margin: 0 -20px;
+    .navbar-nav {
+        margin-top: 2px;
+        padding: 0 15px;
+    }
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #121212;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #f3793a;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #f3793a;
+}
 .mediumnavigation{
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
     .navbar-brand{

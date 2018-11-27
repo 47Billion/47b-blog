@@ -66,7 +66,7 @@
         
             <ul class="navbar-nav ml-auto">
 
-                <li><a href="{{ site.siteurl }}index.html#home">Home</a></li>
+                <li class="nav-item"><a href="{{ site.siteurl }}index.html#home">Home</a></li>
                 {% if page.url == "/about.html" %}
                 <li class="nav-item active">
                 {% else %}
@@ -74,9 +74,9 @@
                 {% endif %}
                 <a class="nav-link" href="{{ site.siteurl }}/about">About</a>
                 </li>
-                <li><a href="{{ site.siteurl }}/index.html##services">Services</a></li>
-                <li><a href="{{ site.siteurl }}/index.html##our-work">Portfolio</a></li>
-                <li><a href="{{ site.siteurl }}/index.html##team">Team</a></li>
+                <li class="nav-item"><a href="{{ site.siteurl }}/index.html##services">Services</a></li>
+                <li class="nav-item"><a href="{{ site.siteurl }}/index.html##our-work">Portfolio</a></li>
+                <li class="nav-item"><a href="{{ site.siteurl }}/index.html##team">Team</a></li>
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
@@ -84,14 +84,9 @@
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
-                <li><a href="{{ site.siteurl }}/index.html##clients">Clients</a></li>
-                <li><a href="{{ site.siteurl }}/index.html#careers.html">Careers</a></li>
-                <li><a href="{{ site.siteurl }}/index.html#contact.html">Contact</a></li>
-                <li style="margin-bottom: 15px;"><a href="{{ site.siteurl }}/index.html#contact.html" class="btn btn-talk" data-animation="animated fadeInUp">LET'S TALK</a></li>
-                
-                
-                
-                
+                <li class="nav-item"><a href="{{ site.siteurl }}/index.html##clients">Clients</a></li>
+                <li class="nav-item"><a href="{{ site.siteurl }}/index.html#careers.html">Careers</a></li>
+                <li class="nav-item"><a href="{{ site.siteurl }}/index.html#contact.html">Contact</a></li>
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.facebook.com/47billion/"><i class="fab fa-facebook-f"></i></a>
                 </li>

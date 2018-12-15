@@ -40,6 +40,14 @@ authors:
     web: https://www.47billion.com
     twitter: https://twitter.com/47billion
     description: "I am a devops lead at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
+  ankit:
+    name: Ankit
+    display_name: Ankit
+    gravatar: https://47billion.com/images/team/team_0025_ankit.png
+    email: hello@47billion.com
+    web: https://www.47billion.com
+    twitter: https://twitter.com/47billion
+    description: "I am a project manager at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
 
 # Plugins
 plugins: 

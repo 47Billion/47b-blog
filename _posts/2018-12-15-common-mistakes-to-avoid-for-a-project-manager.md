@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Common mistakes to avoid for a Project Manager"
-author: rajeev
+author: ankit
 categories: [ culture, process ]
 image: assets/images/2018-12-15-common-mistakes-to-avoid-for-a-project-manager-1.jpg
 featured: false

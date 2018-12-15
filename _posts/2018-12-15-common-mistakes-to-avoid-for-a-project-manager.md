@@ -57,6 +57,6 @@ Make best use of information radiators, follow the policy of pushing updates rat
 Involve project sponsor in all major team meetings, specially the estimation and review meetings.
 
 
-*These are just some of the things we should be careful of while managing projects. If utilised in a wise manner, Project management is a potent tool to have an organised effort in the direction of timely product delivery. And in the end it is not a gospel, to be used at a hospital and a construction site alike. Take right calls pertinent to your unique project requirements, to have a successful project.
+*These are just some of the things we should be careful of while managing projects. If utilised in a wise manner, Project management is a potent tool to have an organised effort in the direction of timely product delivery. And in the end it is not a gospel, to be used at a hospital and a construction site alike. Take right calls pertinent to your unique project requirements, to have a successful project.*
 
 

@@ -273,9 +273,9 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 
-Run the code on Android and IOS devices, Click on the Button “Call Native Method”
+### Result
 
-Result
+Run the code on Android and iOS devices. Click on the Button “Call Native Method”
 <figure>
   <img src="{{site.baseurl}}/assets/images/2019-01-15-creating-a-bridge-in-flutter-between-dart-and-native-code-1.png" alt="Result"/>
   <figcaption>Result</figcaption>

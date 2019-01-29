@@ -141,10 +141,10 @@ Raspberry Pi’s are being used for all kinds of projects from home automation a
 
 At 47Billion, we use Raspberri Pi boards in both production and pre-production testing modes.
 
-. We used Raspberry Pi to run a streaming media server. This server is used to stream movies and songs to a mobile app running on the same wifi network as Raspberry Pi. This setup is deployed in buses and trains to provide streaming media services to passengers on local WiFi without need of expensive and flaky provider internet data connection.
+* We used Raspberry Pi to run a streaming media server. This server is used to stream movies and songs to a mobile app running on the same wifi network as Raspberry Pi. This setup is deployed in buses and trains to provide streaming media services to passengers on local WiFi without need of expensive and flaky provider internet data connection.
 
-. We use Raspberry Pi to run Amazon Alexa services as an alternative to Amazon Echo 
+* We use Raspberry Pi to run Amazon Alexa services as an alternative to Amazon Echo 
 
-. Raspberry Pi is a perfect hardware to test home automation and connected sensors. We have multiple projects where it is being used for testing sensor and automation.
+* Raspberry Pi is a perfect hardware to test home automation and connected sensors. We have multiple projects where it is being used for testing sensor and automation.
 
-. Our latest project involves running Google's TensorFlow on Raspberry Pi to develop products with Artificial Intelligence on the edge.
+* Our latest project involves running Google's TensorFlow on Raspberry Pi to develop products with Artificial Intelligence on the edge.

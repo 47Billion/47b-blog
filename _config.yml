@@ -48,7 +48,14 @@ authors:
     web: https://www.47billion.com
     twitter: https://twitter.com/47billion
     description: "I am a project manager at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
-
+  prakhar:
+    name: Prakhar
+    display_name: Prakhar
+    gravatar: https://47billion.com/images/team/team_0000_prakhar.png
+    email: hello@47billion.com
+    web: https://www.47billion.com
+    twitter: https://twitter.com/47billion
+    description: "I am a software developer at 47Billion. We specialize in helping technology companies build awesome products. Contact us at info@47billion.com."
 # Plugins
 plugins: 
   - jekyll-paginate

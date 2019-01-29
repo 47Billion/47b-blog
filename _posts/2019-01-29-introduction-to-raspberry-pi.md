@@ -45,7 +45,7 @@ Most technical minded people can figure out what that means but still let me giv
 ## Purchasing guide
 If you are planning on buying a new raspberry pi, it’s really important to know which one best suit your needs and what extra things you need to get. Here is a list of things you will need –
 
-1. **Board**
+### Board
 
   You will obviously need the Raspberry Pi board but there are options available. If you have nothing in particular in mind and buying it just as a hobby, you will have to choose between 3b and 3b+. Although there is not much difference in price and 3b+ as the name would suggest is the newer and better version, the problem is compatibility. The 3b+ is NOT backward compatible with 3b, so if you have found some project online and just want to build it, make sure to get the right version. The older operating systems do not boot on 3b+. But if you think long term the 3b+ is definitely a better option. Another option is Raspberry Pi Zero W. If you are planning on building something that requires low processing and you want the project to be low cost then this is the option for you. Its size and configuration are half of the regular model. It also requires additional connectors since it comes with micro USB and micro HDMI as inputs. DO NOT buy Raspberry Pi Zero, which is the older model without Bluetooth and Wi-Fi. Zero W and Zero WH are the same except WH comes with the header pins soldered.
 
@@ -69,11 +69,11 @@ Pros — Half in both size and price.
 
 Cons — Lower configuration than both 3b and 3b+ and requires adapters for micro USB and HDMI
 
-2. **SD card**
+### SD card
 
   RPi uses a micro SD card for storage. Usually, 8 GB is enough space, even 4GB is fine if you don’t need much storage space but going above 16 GB will require additional tools for formatting the card. The important thing to keep in mind that since OS is installed on the card the performance of your system is greatly affected by the speed of your card. If possible go for class 10 card or above. As for installing the OS, there are preinstalled cards available but the installation process is not much different from installing a regular software so I wouldn’t recommend them if they cost extra.
 
-3. **Case** 
+### Case 
 
   Raspberry Pi is an open board with metal contacts everywhere, so to avoid any short-circuits you should consider buying a case.
 
@@ -82,7 +82,7 @@ Cons — Lower configuration than both 3b and 3b+ and requires adapters for 
   <figcaption>Case</figcaption>
 </figure>
 
-4. **Breakout kit** 
+### Breakout kit 
 
   If you are planning on playing with the GPIO pins and do not have experience with handling electronic components, you should consider purchasing a breakout kit. It will make your work much easier and it will reduce the chances of causing damage to the pins. Just search for t-cobbler with cable. You should also get a breadboard and some Dupont cables.
 
@@ -91,7 +91,7 @@ Cons — Lower configuration than both 3b and 3b+ and requires adapters for 
   <figcaption>Breakout Kit</figcaption>
 </figure>
 
-5. **Sensors** 
+### Sensors 
   
   There2019-01-15-introduction-to-raspberry-pi-1. are all kinds of sensors available for raspberry pi from motion and proximity to touch and rain sensors. They are usually quite cheap. Just look for them on any online electronic components store.
 
@@ -100,7 +100,7 @@ The first thing you will need to do is choose an OS for your pi. The best way to
 
 In case you want to experiment a bit there are some interesting operating systems available like-
 
-1. **RISC OS**
+### RISC OS
 
   It is a really small and fast operating system. The desktop version image with applications installed is about 120 MB and the command line version is just 4 MB.
 
@@ -109,21 +109,21 @@ In case you want to experiment a bit there are some interesting operating system
   <figcaption>RISC OS Desktop</figcaption>
 </figure>
 
-2. **RetroPie** 
+### RetroPie 
 
   Retro pi is built on top of Raspbian. It converts your raspberry pi into a retro gaming machine. It contains emulators for a large number of old gaming platforms including Nintendo, Gameboy and Sony consoles. With some effort, you can build your own arcade machine.
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2019-01-15-introduction-to-raspberry-pi-6.png" alt="RetroPie"/>
-  <figcaption>RISC OS Desktop</figcaption>
+  <img src="{{site.baseurl}}/assets/images/2019-01-15-introduction-to-raspberry-pi-6.jpeg" alt="RetroPie"/>
+  <figcaption>RetroPie</figcaption>
 </figure>
 
-3. **OSMC** 
+### OSMC 
 
   Open Source Media Center, or OSMC, is a standalone Kodi operating system. I basically turn your raspberry pi into a media player. If you are planning on building something serious then there are various soundcards available too.
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2019-01-15-introduction-to-raspberry-pi-7.png" alt="RetroPie"/>
+  <img src="{{site.baseurl}}/assets/images/2019-01-15-introduction-to-raspberry-pi-7.jpeg" alt="OSMC"/>
   <figcaption>OSMC</figcaption>
 </figure>
 

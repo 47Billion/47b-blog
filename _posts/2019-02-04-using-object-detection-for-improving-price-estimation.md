@@ -63,11 +63,9 @@ A targeted machine learning model trained only on the photos of interior and ext
 ### Microsoft
 
 ```json
-{
 "categories":[{"name":"outdoor_pool","score":0.95703125}],
 "requestId":"7462e05d-5cc3–4273-a6d6-e78edc916d34",
 "metadata":{"width":2048,"height":1365,"format":"Jpeg"}
-}
 ```
 
 ### Google
@@ -103,4 +101,229 @@ Pool : 69.26892852783203
 Architecture : 61.82177734375
 Sidewalk : 57.70322799682617
 Pavement : 57.70322799682617
+```
+
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-02-04-using-object-detection-for-improving-price-estimation-2.jpeg" alt="Home"/>
+  <figcaption>Reference: https://i.imgur.com/Eic3Xam.jpg</figcaption>
+</figure>
+
+### Microsoft
+
+```json
+"categories":[{"name":"abstract_","score":0.01171875},{"name":"others_","score":0.01171875}],"requestId":"a7add036–54d5–4421-ab4c-889535161445","metadata":{"width":1905,"height":2000,"format":"Jpeg"}
+```
+
+### Google
+
+```json
+interior design : 0.7810790538787842
+home : 0.6999193429946899
+window : 0.6992332339286804
+outdoor structure : 0.5407284498214722
+furniture : 0.5291412472724915
+```
+
+### Amazon
+
+```json
+Flooring : 99.99893951416016
+Floor : 99.8294448852539
+Indoors : 94.28851318359375
+Interior Design : 94.28851318359375
+Plant : 89.50586700439453
+Living Room : 85.67030334472656
+Room : 85.67030334472656
+Furniture : 83.99723052978516
+Couch : 83.99723052978516
+Hardwood : 82.8748550415039
+Wood : 82.8748550415039
+Jar : 78.75053405761719
+Pottery : 78.75053405761719
+Vase : 78.75053405761719
+Blossom : 77.35748291015625
+Flower Arrangement : 77.35748291015625
+Flower : 77.35748291015625
+Potted Plant : 76.62191009521484
+Flower Bouquet : 72.43888854980469
+Flagstone : 58.75558090209961
+Door : 58.61599349975586
+Corridor : 55.91652297973633
+```
+
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-02-04-using-object-detection-for-improving-price-estimation-3.jpeg" alt="Home"/>
+  <figcaption>Reference: https://i.imgur.com/6aGAOOp.jpg</figcaption>
+</figure>
+
+### Microsoft
+
+```json
+"categories":[{"name":"abstract_","score":0.01953125},{"name":"others_","score":0.00390625},{"name":"outdoor_","score":0.00390625}],"requestId":"0f4b81a5-b38f-47b0–93fa-61d93186a5bb","metadata":{"width":2048,"height":912,"format":"Jpeg"}
+```
+
+### Google
+
+```json
+property : 0.8942150473594666
+countertop : 0.8445141911506653
+kitchen : 0.8333971500396729
+estate : 0.7475240230560303
+interior design : 0.7038251161575317
+real estate : 0.7007927894592285
+cuisine classique : 0.6698155999183655
+ceiling : 0.5234758257865906
+```
+
+### Amazon
+
+```json
+Indoors : 99.1664047241211
+Room : 99.1664047241211
+Kitchen : 94.69178009033203
+Interior Design : 93.49835205078125
+Flooring : 89.98771667480469
+Wood : 85.61946868896484
+Lamp : 83.11481475830078
+Chandelier : 83.11481475830078
+Kitchen Island : 81.20708465576172
+Hardwood : 77.21861267089844
+Furniture : 59.81884002685547
+Floor : 58.4579963684082
+```
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-02-04-using-object-detection-for-improving-price-estimation-4.jpeg" alt="Home"/>
+  <figcaption>Reference: https://i.imgur.com/2CQ2EyM.jpg</figcaption>
+</figure>
+
+### Microsoft
+
+```json
+"categories":[{"name":"abstract_","score":0.02734375},{"name":"building_pillar","score":0.3515625}],"requestId":"5e1faa3e-ac73–4a65-aaaf-84ec3d8547cd","metadata":{"width":2048,"height":944,"format":"Jpeg"}
+```
+
+### Google
+
+```json
+property : 0.8988840579986572
+room : 0.8776835799217224
+interior design : 0.7127363085746765
+real estate : 0.6541785597801208
+living room : 0.6493942141532898
+estate : 0.6164873838424683
+floor : 0.5910876989364624
+ceiling : 0.5784943699836731
+flooring : 0.5770671367645264
+house : 0.5629818439483643
+```
+
+### Amazon
+
+```json
+Flooring : 99.9969482421875
+Floor : 99.98954010009766
+Wood : 98.96363830566406
+Interior Design : 97.80683135986328
+Indoors : 97.80683135986328
+Hardwood : 92.8141098022461
+Room : 82.762939453125
+Living Room : 80.249267578125
+Plywood : 72.39012145996094
+Furniture : 69.56649780273438
+Bedroom : 68.93217468261719
+Bed : 61.190338134765625
+Rug : 60.942543029785156
+```
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-02-04-using-object-detection-for-improving-price-estimation-5.jpeg" alt="Home"/>
+  <figcaption>Reference: https://i.imgur.com/LGKVfzx.jpg</figcaption>
+</figure>
+
+### Microsoft
+
+```json
+"categories":[{"name":"indoor_room","score":0.93359375}],"requestId":"59e8b484–652a-4d78–90f6-d9fb4274c33f","metadata":{"width":2000,"height":2000,"format":"Jpeg"}
+```
+
+### Google
+
+```json
+room : 0.916010856628418
+bathroom : 0.8526955842971802
+interior design : 0.8033964037895203
+floor : 0.8008365035057068
+wall : 0.7690424919128418
+flooring : 0.7259812951087952
+home : 0.725638210773468
+ceiling : 0.701020359992981
+estate : 0.6925469040870667
+real estate : 0.657813549041748
+```
+
+### Amazon
+
+```json
+Flooring : 99.98371887207031
+Floor : 99.88095092773438
+Furniture : 98.47281646728516
+Couch : 88.17687225341797
+Indoors : 87.85083770751953
+Interior Design : 87.85083770751953
+Living Room : 78.22207641601562
+Room : 78.22207641601562
+Wood : 71.65221405029297
+Tub : 68.77200317382812
+Hardwood : 62.696842193603516
+Flagstone : 58.15713119506836
+```
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-02-04-using-object-detection-for-improving-price-estimation-6.jpeg" alt="Home"/>
+  <figcaption>Reference: https://i.imgur.com/6PnuY0Q.jpg</figcaption>
+</figure>
+
+### Microsoft
+
+```json
+"categories":[{"name":"outdoor_","score":0.01171875},{"name":"outdoor_street","score":0.55078125}],"requestId":"88a759da-2b1c-43f9–9fec-c8cb07cb9fde","metadata":{"width":1769,"height":2000,"format":"Jpeg"}
+
+### Google
+
+```json
+property : 0.9011626243591309
+walkway : 0.7674194574356079
+home : 0.7527650594711304
+real estate : 0.7386894822120667
+arecales : 0.7260463237762451
+palm tree : 0.6820899248123169
+estate : 0.6767517924308777
+outdoor structure : 0.6750420928001404
+villa : 0.6429499387741089
+house : 0.6065300107002258
+```
+
+### Amazon
+
+```json
+Flagstone : 99.65138244628906
+Tree : 95.78475952148438
+Plant : 95.78475952148438
+Patio : 91.34025573730469
+Walkway : 90.66641235351562
+Path : 90.66641235351562
+Arecaceae : 88.72791290283203
+Palm Tree : 88.72791290283203
+Outdoors : 79.1570816040039
+Sidewalk : 78.15443420410156
+Pavement : 78.15443420410156
+Human : 77.41170501708984
+Person : 77.41170501708984
+Building : 76.29102325439453
+Banister : 74.00752258300781
+Handrail : 74.00752258300781
+Summer : 70.18952178955078
+Hotel : 63.83850860595703
+Arbour : 59.08328628540039
+Garden : 59.08328628540039
+Home Decor : 57.40121078491211
+Pot : 56.944217681884766
 ```

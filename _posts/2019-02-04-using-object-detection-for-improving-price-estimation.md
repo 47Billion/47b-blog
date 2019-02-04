@@ -62,15 +62,17 @@ A targeted machine learning model trained only on the photos of interior and ext
 
 ### Microsoft
 
-```{
+```json
+{
 "categories":[{"name":"outdoor_pool","score":0.95703125}],
 "requestId":"7462e05d-5cc3–4273-a6d6-e78edc916d34",
 "metadata":{"width":2048,"height":1365,"format":"Jpeg"}
 }
+```
 
 ### Google
 
-```
+```json
 estate : 0.9384693503379822
 property : 0.9383976459503174
 mansion : 0.9083089828491211
@@ -81,10 +83,12 @@ hacienda : 0.7106115221977234
 building : 0.7076689004898071
 sky : 0.6754202842712402
 swimming pool : 0.6674705147743225
+```
 
 ### Amazon
 
-```Building : 97.64356231689453
+```json
+Building : 97.64356231689453
 Mansion : 93.88848876953125
 House : 93.88848876953125
 Housing : 93.88848876953125
@@ -99,3 +103,4 @@ Pool : 69.26892852783203
 Architecture : 61.82177734375
 Sidewalk : 57.70322799682617
 Pavement : 57.70322799682617
+```

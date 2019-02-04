@@ -111,7 +111,9 @@ Pavement : 57.70322799682617
 ### Microsoft
 
 ```json
-"categories":[{"name":"abstract_","score":0.01171875},{"name":"others_","score":0.01171875}],"requestId":"a7add036–54d5–4421-ab4c-889535161445","metadata":{"width":1905,"height":2000,"format":"Jpeg"}
+"categories":[{"name":"abstract_","score":0.01171875},{"name":"others_","score":0.01171875}],
+"requestId":"a7add036–54d5–4421-ab4c-889535161445",
+"metadata":{"width":1905,"height":2000,"format":"Jpeg"}
 ```
 
 ### Google
@@ -159,7 +161,9 @@ Corridor : 55.91652297973633
 ### Microsoft
 
 ```json
-"categories":[{"name":"abstract_","score":0.01953125},{"name":"others_","score":0.00390625},{"name":"outdoor_","score":0.00390625}],"requestId":"0f4b81a5-b38f-47b0–93fa-61d93186a5bb","metadata":{"width":2048,"height":912,"format":"Jpeg"}
+"categories":[{"name":"abstract_","score":0.01953125},{"name":"others_","score":0.00390625},{"name":"outdoor_","score":0.00390625}],
+"requestId":"0f4b81a5-b38f-47b0–93fa-61d93186a5bb",
+"metadata":{"width":2048,"height":912,"format":"Jpeg"}
 ```
 
 ### Google
@@ -199,7 +203,9 @@ Floor : 58.4579963684082
 ### Microsoft
 
 ```json
-"categories":[{"name":"abstract_","score":0.02734375},{"name":"building_pillar","score":0.3515625}],"requestId":"5e1faa3e-ac73–4a65-aaaf-84ec3d8547cd","metadata":{"width":2048,"height":944,"format":"Jpeg"}
+"categories":[{"name":"abstract_","score":0.02734375},{"name":"building_pillar","score":0.3515625}],
+"requestId":"5e1faa3e-ac73–4a65-aaaf-84ec3d8547cd",
+"metadata":{"width":2048,"height":944,"format":"Jpeg"}
 ```
 
 ### Google
@@ -242,7 +248,9 @@ Rug : 60.942543029785156
 ### Microsoft
 
 ```json
-"categories":[{"name":"indoor_room","score":0.93359375}],"requestId":"59e8b484–652a-4d78–90f6-d9fb4274c33f","metadata":{"width":2000,"height":2000,"format":"Jpeg"}
+"categories":[{"name":"indoor_room","score":0.93359375}],
+"requestId":"59e8b484–652a-4d78–90f6-d9fb4274c33f",
+"metadata":{"width":2000,"height":2000,"format":"Jpeg"}
 ```
 
 ### Google
@@ -284,7 +292,9 @@ Flagstone : 58.15713119506836
 ### Microsoft
 
 ```json
-"categories":[{"name":"outdoor_","score":0.01171875},{"name":"outdoor_street","score":0.55078125}],"requestId":"88a759da-2b1c-43f9–9fec-c8cb07cb9fde","metadata":{"width":1769,"height":2000,"format":"Jpeg"}
+"categories":[{"name":"outdoor_","score":0.01171875},{"name":"outdoor_street","score":0.55078125}],
+"requestId":"88a759da-2b1c-43f9–9fec-c8cb07cb9fde",
+"metadata":{"width":1769,"height":2000,"format":"Jpeg"}
 
 ### Google
 

@@ -12,6 +12,7 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 ### Animation types
 
 **Tween animation**
+
 In tween animation, we have to define the start and end points of animation, timeline, and curve that defines the timing and speed of the transition. The framework calculates intermediate values from the start point to the end point.
 
 **Physics-based animation**
@@ -156,14 +157,14 @@ Animation<double> animation;
     super.initState();
     controller = new AnimationController(vsync: this,
         duration: new Duration(seconds: 4));
-Tween tween = new Tween<double>(begin: 0.0, end: 400.0);
+    Tween tween = new Tween<double>(begin: 0.0, end: 400.0);
     animation = tween.animate(controller);
-animation.addListener(() {
+    animation.addListener(() {
       setState(() {
       });
     });
 
-controller.repeat();
+    controller.repeat();
   }
 }
 ```

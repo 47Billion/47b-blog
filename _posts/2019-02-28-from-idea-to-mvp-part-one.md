@@ -60,6 +60,7 @@ Visualizing entire user flow in a static flow diagram helps in organization and 
   <figcaption>User Interface Flow</figcaption>
 </figure>
 
+
 - Wireframes
 
 Wireframes are used to layout information on a screen. A good wireframe positions content based on type and its importance. If there is a variety of content types to be displayed on one page, wire framing allows focussing on designing clean, uncluttered arrangement before designing high-fidelity mockups.
@@ -70,6 +71,7 @@ Wireframes are used to layout information on a screen. A good wireframe position
   <img src="{{site.baseurl}}/assets/images/2019-02-28-from-idea-to-mvp-part-one-4.jpeg" alt="Wireframe"/>
   <figcaption>Wireframe</figcaption>
 </figure>
+
 
 - High Fidelity Mockups
 
@@ -92,6 +94,7 @@ High fidelity mockups closely mimic the final look of user interface. Here decis
   <figcaption>Redlined high fidelity Mockup</figcaption>
 </figure>
 
+
 - Interactive Mockups
 
 Interactive mockups combine user flow and high fidelity static mockups to provide early user experience of navigation with a canned data without waiting for an entire development to be over. You can use these mockups for demo to potential users and investors to gauge their reaction, interest and gain a valuable feedback.
@@ -102,6 +105,7 @@ Interactive mockups combine user flow and high fidelity static mockups to provid
   <img src="{{site.baseurl}}/assets/images/2019-02-28-from-idea-to-mvp-part-one-8.gif" alt="Interactive mockup using Adobe XD CC (WYSIWYG)"/>
   <figcaption>Interactive mockup using Adobe XD CC (WYSIWYG)</figcaption>
 </figure>
+
 
 *In part 2 of this series, I will talk about defining architecture, choosing software stack, setting up agile development process and marketing practices for your MVP.*
 

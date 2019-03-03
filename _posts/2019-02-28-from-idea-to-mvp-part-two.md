@@ -23,7 +23,7 @@ Defining an elaborate architecture for MVP may seem like the overkill. Typical t
 
 > A few days spent on a high-level architecture in MVP phase build a solid foundation for the product.
 
-### Logical Component Design
+#### Logical Component Design
 
 Logical component design allows visualizing a well-defined boundary around all the internal services of product. It also helps clarifying well-structured contracts between these services. With proper micro-services architecture, you can easily replace one implementation of the service with another one in the future. Services can be defined based on encapsulation of functionality, scalability characteristics, real-time vs non-real-time requirements, CPU or I/O bound operations etc. Each service can be independently deployed and scaled.
 
@@ -37,7 +37,7 @@ A typical logical component diagram shows logical internal and external building
 </figure>
 
 
-### Event flows
+#### Event flows
 
 Event flows show request/response and asynchronous events between services. It is useful to draw event flows for a few complex features that involve multiple services. They help clarify responsibilities between various services and also can help identify and reduce complexity by moving around functionality between services. Flows that typically involve third-parties, authentication and authorization and a few common request/response flows are good candidates for event flow diagrams.
 
@@ -49,7 +49,7 @@ i> Use event flows to identify complex interactions and redraw boundaries to sim
 </figure>
 
 
-### Entity Relationship Model
+#### Entity Relationship Model
 
 Defining entity relationship model is one of the most important tasks during architecture definition phase. You can refer to use cases written during product definition phase and list down all the entities and relationships between them. This phase can be used to uncover new entities or new relationships. You can revise use cases based on these new insights.
 
@@ -63,7 +63,7 @@ ER model is a logical representation. The entity can map directly to a table, or
 </figure>
 
 
-### Technology stack
+#### Technology stack
 
 It is easy to fall in the trap of thinking technology as a product and over-engineer during MVP phase. So instead of mapping use cases to product features to technologies, there is a tendency to reverse map. It is tempting to think of machine learning and blockchain as features without mapping them to use cases for your end users. It is important to remember that technology is merely a facilitator of your overall business idea and the tech stack you choose is completely transparent to your end users.
 
@@ -93,7 +93,7 @@ Choose software stack based on team’s skills while keeping in mind challenges 
 </figure>
 
 
-### Coding
+#### Coding
 
 There are numerous articles and books written on “The art of programming”. Here are a few important guidelines -
 
@@ -108,7 +108,7 @@ There are numerous articles and books written on “The art of programming”. H
 
 > Write modular, consistent and simple code that closely follows philosophy and structure of the chosen framework.
 
-### Deployment
+#### Deployment
 
 Thinking about deployment architecture during MVP phase helps designing for long-term scalability and high-availability. It also helps in weighing costs vs. time-to-market tradeoffs of IaaS vs. PaaS services.
 
@@ -126,7 +126,7 @@ Database servers and any backend services should be secured behind VPCs.
 
 Entrepreneurs typically fall into one of the two extreme traps during MVP development: thinking of agile as no planning or focussing too much on the process too early without understanding team dynamics. A proper balance between the two allows focusing on real deliverables without much overhead and provides constant feedback. A few days spent at the beginning on planning and setting up continuous integration and deployment process will go a long way towards smooth execution.
 
-### Planning
+#### Planning
 
 - Work backwards from a date to go live with MVP. Reduce scope or split releases accordingly to fit the available time. This gives a sense of urgency and help focus on essential features. A typical first release should be planned within 3 to 4 months of the start.
 
@@ -142,7 +142,7 @@ Use a planning tool to focus on core features and track progress.
 </figure>
 
 
-### Continuous Integration (CI)
+#### Continuous Integration (CI)
 
 A well-setup continuous integration process enforced with proper tools helps in smooth sprint deliveries.
 
@@ -158,7 +158,7 @@ A well-setup continuous integration process enforced with proper tools helps in 
 </figure>
 
 
-### Continuous Deployment (CD)
+#### Continuous Deployment (CD)
 
 A continuous automated deployment process provides immediate visibility to team’s work.
 
@@ -181,17 +181,17 @@ A continuous automated deployment process provides immediate visibility to team�
   <figcaption>Continuous Delivery using Docker and Jenkins</figcaption>
 </figure>
 
-##Marketing
+## Marketing
 
 During MVP development phase, equal emphasis should be given to user acquisition and operational strategies. General thinking is that unless you have a working prototype, it is hard to approach potential users. Though true to some extent, you can start gauging interest from early adopters by talking about the product or giving them glimpses of interactive mockups. You should start putting together product distribution, go-to-market and pricing strategies during MVP development phase. If the product involves operations, putting together an operations team during MVP phase makes you ready to launch as soon as MVP is completed.
 
-### Website
+#### Website
 
 A single page marketing website setup early helps generate early interest. A sign up form to notify users when product is launched can be added to the site. When the MVP is ready, this page can include links to Apps in App stores or entry point to registration and login of the web portal. Using CMS like WordPress for marketing site gives flexibility to non-tech founders to easily change content. Plugins for forms, Email, SEO, etc. can also be leveraged.
 
 > Develop a single page marketing website for early signups.
 
-### Content
+#### Content
 
 A well-written content for marketing website, App, web portal, user on-boarding, in-product user communication like emails, marketing communication, social media posts, blogs, investor pitches that fit visual design makes a significant difference. A good copywriter or a team member with a flair for writing can take on this job during MVP phase.
 
@@ -199,7 +199,7 @@ If your product is content-focussed, this is the time to put together a solid co
 
 > A combination of good writing with visuals portrays sleek image of your company and product.
 
-### Analytics
+#### Analytics
 
 It is important to measure user acquisition channel effectiveness, user engagement and behavior and take corrective actions once MVP is deployed. A simple integration with Google Analytics gives you powerful insights into user behavior. You can also collect activity logs in low-cost storage like S3 which can be used for custom analytics.
 
@@ -211,7 +211,7 @@ It is important to measure user acquisition channel effectiveness, user engageme
 </figure>
 
 
-### Campaigns
+#### Campaigns
 
 Once MVP is deployed, the focus shifts to acquiring new users, preventing users you have got from leaving, and keeping them actively using your product. One of the ways to achieve this is to integrate campaign management software like Amplitude, MixPanel, CleverTap, Google Firebase, in your product. At a minimum, your early product should include ways to send targeted push notifications with deep linking for user retention and engagement.
 

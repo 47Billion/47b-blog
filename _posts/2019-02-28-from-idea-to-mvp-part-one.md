@@ -19,11 +19,13 @@ Having worked with a lot of entrepreneurs to bring their ideas to life, I have c
 Product definition provides a common view of the background and what you are building to all the stakeholders.
 
 - Specification
+
 This document describes a high-level business idea or an investment thesis and how it is supported by the product. It should also describe what you know about the market that is contrarian view from majority, in short, your differentiation. It should briefly describe target segment, user channels (mobile app, website, voice interface, etc.), major features, product distribution, engagement and monetization strategies. It should also clearly state the goal of your MVP which can range from a validation of assumed user behavior to target number of paying users after 6 months of release of MVP.
 
 > Use specification as a common guideline throughout the MVP cycle for users, team and investors.
 
 - Use cases
+
 Use cases describe MVP functionality from the point of view of your users. Each use case is a short description of a user action with respect to their roles and corresponding response: “As an end user, I can send ‘Hello’ to my chat bot and receive greeting back”. Each use case should be short enough to be implemented quickly and should preferably define functionality that is visible to the user. You can also write non-functional use cases that define characteristics like response time, scalability, costs etc.
 
 > Define use cases to clarify MVP behavior, break down features in small chunks, tighten the scope to focus on and simplify.
@@ -40,6 +42,7 @@ MVP is a first impression of your product to customers and potential investors. 
 Though the following steps describe traditional graphical user interfaces design, they apply equally to the speech and chat bot based conversational interface design. For a simple user interface design, interactive high fidelity mockups can be developed directly while keeping initial steps in mind.
 
 - Information Architecture
+
 Information architecture definition phase is optional but can help put proper structure to user interface before diving deep into flows and interactions.
 
 During this phase, a product manager or a user experience designer can help define user personas, roles, information affinity, various operations and flows. This phase can be used to make decisions such as category-based vs stream-based information presentation.
@@ -47,6 +50,7 @@ During this phase, a product manager or a user experience designer can help defi
 > Use Information architecture to develop a simple structure around the information to be presented to users.
 
 - Flow Diagram
+
 Visualizing entire user flow in a static flow diagram helps in organization and optimizing user interactions early in the process. For conversational interfaces with natural language, you can design user conversations for most frequently used interactions.
 
 > Simplify information organization and user transitions with a static flow diagram.
@@ -57,6 +61,7 @@ Visualizing entire user flow in a static flow diagram helps in organization and 
 </figure>
 
 - Wireframes
+
 Wireframes are used to layout information on a screen. A good wireframe positions content based on type and its importance. If there is a variety of content types to be displayed on one page, wire framing allows focussing on designing clean, uncluttered arrangement before designing high-fidelity mockups.
 
 > Arrange content layout on a page using wireframes.
@@ -67,6 +72,7 @@ Wireframes are used to layout information on a screen. A good wireframe position
 </figure>
 
 - High Fidelity Mockups
+
 High fidelity mockups closely mimic the final look of user interface. Here decisions such as branding guidelines, colors, fonts, iconography, micro-interactions are introduced in wireframes to show final rich user interface. Context and personas defined during information architecture phase and wireframes should be used as input for high fidelity mockups. Mockups need to be developed with grid layout if UI design needs to be responsive to show properly on mobile browsers.
 
 > Design high-fidelity mockups to visualize detailed look-and-feel of user interface.
@@ -87,6 +93,7 @@ High fidelity mockups closely mimic the final look of user interface. Here decis
 </figure>
 
 - Interactive Mockups
+
 Interactive mockups combine user flow and high fidelity static mockups to provide early user experience of navigation with a canned data without waiting for an entire development to be over. You can use these mockups for demo to potential users and investors to gauge their reaction, interest and gain a valuable feedback.
 
 > Use interactive mockups to gain early feedback on your service from your users and investors.

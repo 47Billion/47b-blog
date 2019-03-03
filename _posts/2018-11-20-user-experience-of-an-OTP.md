@@ -19,7 +19,7 @@ The second message has OTP at the end of the sentence. So it required me to open
 A similar bad OTP experience is related to Ola Taxi Booking App. It is mandatory for a passenger to verify the OTP with the cab driver before the ride starts. Ola used to send OTP in SMS as well as show it in the app. Due to some reason, the OTP is now shown only in the app. As you can see in the app snapshot, the OTP is shown in the smallest font somewhere at the bottom right of teh screen. Any user who is farsighted or have reading glasses, most of the time, is unable to read the OTP to give to driver. A simple user exprence would be just to increase the font size of the OTP so this mandatory operation is made smoother for the user.
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2018-11-20-user-experience-of-an-OTP-2.png" alt="OTP in small font in Ola App"/>
+  <img src="{{site.baseurl}}/assets/images/2018-11-20-user-experience-of-an-OTP-2.jpg" alt="OTP in small font in Ola App"/>
   <figcaption>OTP in Small font in Ola App</figcaption>
 </figure>
 

@@ -18,7 +18,7 @@ Some examples of products that require the second pass human intervention for co
 - Automatic homework grading of handwritten answers to English literature questions based on correct grammar, references to author and characters, etc.
 - Detection of disease codes in scanned Electronic Health Records based on OCR and health code dictionaries
 
-Example of the second pass user interfaceSuch user interfaces should have the following characteristics -
+Such user interfaces should have the following characteristics -
 - Allow the reviewer to quickly visualize the unstructured data (images or text). This is important particularly to detect false negatives (detections missed by the machine learning automation).
 - The reviewer should be able to see the navigable list of detected labels.
 - The reviewer should be able to quickly traverse each labeled object or text. This allows the user to confirm the result as true positive or mark it as false positive.
@@ -33,5 +33,5 @@ Search based on labels or text should be provided.
 - For each false negative, the reviewer should be able to add the missing label and corresponding details such as coordinates or position of the missing object.
 - The user interface should capture the reviewer name, date and amount of time for review of each document. This time can be used to indicate overall efficiency added by ML first pass algorithm over the manual-only inspection process.
 
-Though machine learning algorithms and models are being improved at a tremedous space, it would be while before they can completely replace human tasks. In the interim, the combination of machine learning inferences augmented by human intelligence is needed. This artcle describes efficient user interface to support such second pass human intervention to correct output of machine learning algorithms. 
+Though machine learning algorithms and models are being improved at a tremendous pace, it would be while before they can completely replace human tasks. In the interim, the combination of machine learning inferences augmented by human intelligence is needed. This article described an efficient user interface to support such second pass human intervention to correct output of machine learning algorithms. 
 ```

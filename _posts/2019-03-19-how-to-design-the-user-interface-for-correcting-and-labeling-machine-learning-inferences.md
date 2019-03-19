@@ -33,5 +33,4 @@ Search based on labels or text should be provided.
 - For each false negative, the reviewer should be able to add the missing label and corresponding details such as coordinates or position of the missing object.
 - The user interface should capture the reviewer name, date and amount of time for review of each document. This time can be used to indicate overall efficiency added by ML first pass algorithm over the manual-only inspection process.
 
-Though machine learning algorithms and models are being improved at a tremendous pace, it would be while before they can completely replace human tasks. In the interim, the combination of machine learning inferences augmented by human intelligence is needed. This article described an efficient user interface to support such second pass human intervention to correct output of machine learning algorithms. 
-```
+Though machine learning algorithms and models are being improved at a tremendous pace, it would be while before they can completely replace human tasks. In the interim, the combination of machine learning inferences augmented by human intelligence is needed. This article described an efficient user interface to support such second pass human intervention to correct the output of machine learning algorithms. 

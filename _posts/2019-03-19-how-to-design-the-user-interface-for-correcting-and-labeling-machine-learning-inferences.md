@@ -3,7 +3,7 @@ layout: post
 title:  "How to design the user interface for correcting and labeling machine learning inferences"
 author: rajeev
 categories: [ machine learning, user experience, user interface design ]
-image: assets/images/2019-03-19-how-to-design-the-user-interface-for-correcting-and-labeling-machine-learning-inferences-1.png
+image: assets/images/2019-03-19-how-to-design-the-user-interface-for-correcting-and-labeling-machine-learning-inferences-1.jpg
 featured: true
 hidden: false
 ---
@@ -17,6 +17,11 @@ Some examples of products that require the second pass human intervention for co
 - Home value estimation using object detection in house pictures
 - Automatic homework grading of handwritten answers to English literature questions based on correct grammar, references to author and characters, etc.
 - Detection of disease codes in scanned Electronic Health Records based on OCR and health code dictionaries
+
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-03-19-how-to-design-the-user-interface-for-correcting-and-labeling-machine-learning-inferences-2.png" alt="An example of a user interface for the second pass human corrections of ML output"/>
+  <figcaption>An example of a user interface for the second pass human corrections of ML output</figcaption>
+</figure>
 
 Such user interfaces should have the following characteristics -
 - Allow the reviewer to quickly visualize the unstructured data (images or text). This is important particularly to detect false negatives (detections missed by the machine learning automation).

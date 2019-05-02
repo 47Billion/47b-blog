@@ -10,9 +10,9 @@ hidden: false
 
 If you are an Android developer and writing Java code for a long time, it is easier to learn Kotlin. Google has announced official support for Kotlin. Kotlin can do all that Java can do. 
 
-We will start from basics so that you can start coding in Kotlin after reading this blog. We will cover classes , functions, inheritance, constructor, interface and access modifiers in this blog.
+We will start from basics so that you can start coding in Kotlin after reading this blog. We will cover classes, functions, inheritance, constructor, interface and access modifiers in this blog.
 
-###function
+### function
 
 ```
 fun main(args: Array<String>) {
@@ -24,7 +24,9 @@ In Kotlin we can declare a function using fun keyword. Unlike java, in kotlin fu
 
 The parameter type is written after its name. For example:
 
-**args: Array<String>**
+```
+args: Array<String>
+```
 
 Semicolon is optional at the end of the statement.
 
@@ -36,7 +38,7 @@ fun max(a: Int, b: Int): Int {
 
 Return type of function is defined after the parameters.
 
-###Statements and expressions
+### Statements and expressions
 
 An expression has a value. It can be used in another expression. A statement is always a top-level element in its enclosing block. It does not have its own value. All control structures are statements in Java. But in Kotlin, other than the loops (for, do, and do/ while) most control structures are expressions.
 
@@ -50,7 +52,7 @@ We can omitt the return type for functions with an expression body.
 fun max(x: Int, y: Int) = if (x > y) x else y
 ```
 
-###Variables
+### Variables
 
 Unlike Java, while declaring variable, there is no need to specify its type. Kotlin, allow us to omit the types from variable declarations.
 
@@ -59,7 +61,7 @@ val x = 42
 val x : Int = 42
 ```
 
-###Mutable and Immutable variables
+### Mutable and Immutable variables
 
 There are two keywords to declare a variable:
 
@@ -77,7 +79,7 @@ else {
 }
 ```
 
-###String templates
+### String templates
 
 In the code, you declare a variable name and then use it in the following string literal
 
@@ -90,7 +92,7 @@ String name = "java";
 System.out.println("Hello, "+name+"!");
 ```
 
-###Classes and properties
+### Classes and properties
 
 ```
 /* Java */
@@ -133,7 +135,7 @@ println(student.isMarried)
 
 **new** is not used in creating object. When we access the property directly, its getter is invoked. If the property name starts with **is**, get prefix is not added to getter and in the setter name, **is** is replaced with set.
 
-###Structure of Kotlin code
+### Structure of Kotlin code
 
 Kotlin also support concept of packages as in Java. Package declaration will be the first line of code, followed by import statement. After import we can have all declarations like classes, functions, and properties. Declarations defined in other files in same package are directly accessible. If we want to access members from other package we have to use import command similar to java.
 
@@ -158,7 +160,7 @@ fun main(args: Array<String>) {
 
 Unlike java package name, there is no relation to directory structure in kotlin. We can put multiple classes in the same file and specify a package name in that file. Kotlin doesn’t impose any restrictions on directory structure according to package name. If in java, package name is com.example than we must be having directory named com and its subdirectory named example. In kotlin it is not necessary.
 
-###Interfaces
+### Interfaces
 
 Kotlin uses the colon in place of extends and implements keywords used in Java. Similar to Java, a class can implement as many interfaces as it wants, but it can extend only one class
 
@@ -209,7 +211,7 @@ We can use super to invoke default implementation from super interface. In Kotli
 
 super<ActionListener>.onPressed().
 
-###Inheritance
+### Inheritance
 
 In Java’s we have to explicitly specify final modifier on a classes or a methods . Kotlin’s classes and methods are by default final. So in Kotlin if we want to create subclass of a class than we have to use open modifier on class.
 
@@ -233,18 +235,18 @@ open class Button : ActionListener {
 }
 ```
 
-###Access Modifiers
+### Access Modifiers
 
 The the table listed below is for modifiers for classes in Kotlin. In case of interfaces, we don’t use final, open, or abstract. A member in an interface is always open. We can’t declare it as final. It is abstract if it has no body, but no need to specify abstract modifier.
 
-###Modifiers for class
+### Modifiers for class
 
 <figure>
   <img src="{{site.baseurl}}/assets/images/2019-05-02-Kotlin-for-java-and-android-developers-1-2.png" alt="Kotlin Class Modifiers"/>
   <figcaption>Kotlin Class Modifiers</figcaption>
 </figure>
 
-###Visibility modifiers
+### Visibility modifiers
 
 Similar to Java we have same **public**, **protected**, and **private** modifiers in Kotlin. But the default modifier is public. Kotlin uses packages only to organizing code it has nothing to do with visibility control like java.
 
@@ -259,7 +261,7 @@ In Kotlin we can use **private** modifier on top-level declarations, including c
 
 In Java, we can access a protected member from the same package, but in Kotlin a protected member is only visible in the class and its subclasses.
 
-###Primary Constructor
+### Primary Constructor
 
 ```
 class Student(val nickname: String)
@@ -298,7 +300,7 @@ open class Animal
 class Dog: Animal()
 ```
 
-###Secondary constructors
+### Secondary constructors
 
 In Kotlin we have defined two secondary constructors.
 

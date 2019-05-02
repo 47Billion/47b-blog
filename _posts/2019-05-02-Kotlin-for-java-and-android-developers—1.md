@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kotlin for Java and Android Developers — 1"
+title:  "Kotlin for Java and Android Developers - Part 1"
 author: atul
 categories: [ technology, mobile development ]
 image: assets/images/2019-05-02-Kotlin-for-java-and-android-developers-1-1.png
@@ -209,7 +209,9 @@ class Button : ActionListener, MouseListener {
 
 We can use super to invoke default implementation from super interface. In Kotlin we put the base type name in angle brackets: 
 
+```
 super<ActionListener>.onPressed().
+```
 
 ### Inheritance
 

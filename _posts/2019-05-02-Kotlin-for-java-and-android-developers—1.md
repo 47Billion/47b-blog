@@ -8,7 +8,7 @@ featured: true
 hidden: false
 ---
 
-If you are an Android developer and writing Java code for a long time, it is easier to learn Kotlin. Google has announced official support for Kotlin. Kotlin can do all that Java can do. 
+If you are an Android developer writing Java code for a long time, it is easy to learn Kotlin. Google has announced official support for Kotlin. Kotlin can do all that Java can do. 
 
 We will start from basics so that you can start coding in Kotlin after reading this blog. We will cover classes, functions, inheritance, constructor, interface and access modifiers in this blog.
 

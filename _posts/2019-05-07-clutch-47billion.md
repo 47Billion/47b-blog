@@ -16,7 +16,7 @@ Clutch is a B2B ratings and reviews site based in Washington DC. They provide ma
 In addition to our recognition as a top creative agency, we also hold a top 10 spot on Clutch’s list of the best [Big Data Companies](https://clutch.co/in/it-services/analytics/leaders-matrix).
 
 <figure>
-  <img src="{{site.baseurl}}/assets/images/2019-05-07-clutch-47billion-2.jpg" alt="Clutch Leaders Matrix"/>
+  <img src="{{site.baseurl}}/assets/images/2019-05-07-clutch-47billion-2.png" alt="Clutch Leaders Matrix"/>
   <figcaption>Clutch Leaders Matrix</figcaption>
 </figure>
 

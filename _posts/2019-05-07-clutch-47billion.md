@@ -3,7 +3,7 @@ layout: post
 title:  "47Billion Named a Top Creative and Design Agency by Clutch"
 author: rajeev
 categories: [ company ]
-image: assets/images/2019-05-07-clutch-47billion-1.png
+image: assets/images/2019-05-07-clutch-47billion-1.jpg
 featured: true
 hidden: false
 ---

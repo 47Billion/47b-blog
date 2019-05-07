@@ -17,7 +17,12 @@ In addition to our recognition as a top creative agency, we also hold a top 10 s
 
 <figure>
   <img src="{{site.baseurl}}/assets/images/2019-05-07-clutch-47billion-2.png" alt="Clutch Leaders Matrix"/>
-  <figcaption>Clutch Leaders Matrix</figcaption>
+  <figcaption>Clutch Leaders Matrix - Creative Design Agencies</figcaption>
+</figure>
+
+<figure>
+  <img src="{{site.baseurl}}/assets/images/2019-05-07-clutch-47billion-3.jpg" alt="Clutch Leaders Matrix"/>
+  <figcaption>Clutch Leaders Matrix - Big Data Analytics</figcaption>
 </figure>
 
 Clutch also has two sister sites, Visual Objects, which highlights that do outstanding creative or design work, such as their list of UX designers, and The Manifest, which allows prospective clients to quickly browse summaries of business’s locations, costs, and services.

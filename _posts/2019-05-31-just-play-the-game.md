@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cricket or Corporate, Just PLAY THE GAME!"
-author: amrita
+author: Amrita
 categories: [ culture, company ]
 image: assets/images/2019-05-31-just-play-the-game-1.jpeg
 featured: true

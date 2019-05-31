@@ -40,7 +40,7 @@ There are various leadership styles. A person should be able to adapt his or her
   <figcaption>Credits: Kathy Marcino</figcaption>
 </figure>
 
-From corporate scandal of Theronos to the ball-tampering scandal of Australia, the stories abound of unethical behavior in both the worlds. You will not win every time - be it cricket or a business. Being ethical during good times is easy. But when you are low, your mettle is tested. It is your commitment to your values during the worst of times that uncovers your true nature and you win the hearts and minds of people.
+From corporate scandal of Theranos to the ball-tampering scandal of Australia, the stories abound of unethical behavior in both the worlds. You will not win every time - be it cricket or a business. Being ethical during good times is easy. But when you are low, your mettle is tested. It is your commitment to your values during the worst of times that uncovers your true nature and you win the hearts and minds of people.
 
 <figure>
   <img src="{{site.baseurl}}/assets/images/2019-05-31-just-play-the-game-5.png" alt="It's not all about winning"/>

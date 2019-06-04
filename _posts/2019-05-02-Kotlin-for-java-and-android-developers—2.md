@@ -7,7 +7,7 @@ image: assets/images/2019-05-02-Kotlin-for-java-and-android-developers-1-1.png
 featured: no
 hidden: false
 ---
-In previous blog (Kotlin for Java and Android Developers —1) we have discussed about function, variables, classes, interfaces, modifiers and constructor. We will now explore functional programming with lambdas and how kotlin handles Nullable types.
+In previous blog [Kotlin for Java and Android Developers — Part 1](https://47billion.com/blog/technology/mobile%20development/2019/05/02/Kotlin-for-java-and-android-developers-1.html) we have discussed about function, variables, classes, interfaces, modifiers and constructor. We will now explore functional programming with lambdas and how kotlin handles Nullable types.
 
 ### Lambdas
 

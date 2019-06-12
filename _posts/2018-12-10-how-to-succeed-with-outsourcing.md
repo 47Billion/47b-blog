@@ -68,4 +68,4 @@ The most common approach for companies is to hire internal team and transfer tec
 Outsourcing partner benefit from a long-term relationship with their clients. If any atypical outsourcing arrangements are discussed and clarified early in the relationship, partner can setup proper internal structures for a long-term success.
 Being a part of successful product team and seeing early traction is not only professionally satisfying but also can start a long-term relationship with the company for mutual benefit.
 
-*This article provides guideline for outsourcing. Do you have outsourcing arrangements that worked well? You can check-out some of the best outsourcing companies (here)[https://biz30.timedoctor.com/outsourcing-companies-in-india/]*
+*This article provides guideline for outsourcing. Do you have outsourcing arrangements that worked well? You can check-out some of the best outsourcing companies [here](https://biz30.timedoctor.com/outsourcing-companies-in-india/)*

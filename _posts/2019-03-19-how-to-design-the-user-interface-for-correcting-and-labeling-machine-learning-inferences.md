@@ -2,7 +2,7 @@
 layout: post
 title:  "How to design the user interface for correcting and labeling machine learning inferences"
 author: rajeev
-categories: [ machine learning, user experience, user interface design ]
+categories: [ machinelearning, userexperience, userinterfacedesign ]
 image: assets/images/2019-03-19-how-to-design-the-user-interface-for-correcting-and-labeling-machine-learning-inferences-1.jpg
 featured: true
 hidden: false

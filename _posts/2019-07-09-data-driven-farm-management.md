@@ -19,8 +19,10 @@ The farmers are required to be informed about sales and finance. This can only c
 ## Data-Driven Farm Management
 
 This is an innovative approach for agriculture practices which is becoming popular amongst the farmers. Data-driven farm management supports farmers to measure all aspects of their business from the information of enhanced agricultural practices, livelihoods, soil health, soil type, nutrition to agricultural product marketing along with the latest developments required for the field. The agricultural technology system is dependent on certainfactors. These factors influence the flow of technology and information between farmers and extension.
-Agroecological: The natural environment strongly influences agricultural planning and operations. The variation represented by different agroecological zones in a given country can be significant. The variations in temperatures, rainfall, soil types, evapotranspiration and so forth are reflected in the diversity of farming conditions and production systems.
-Political-Economic: The political and economic environment plays a crucial role in agriculture specially in our country. Also the economic dependency on agriculture and proportion of population economically active in agriculture is more in India.
+
+**Agroecological**: The natural environment strongly influences agricultural planning and operations. The variation represented by different agroecological zones in a given country can be significant. The variations in temperatures, rainfall, soil types, evapotranspiration and so forth are reflected in the diversity of farming conditions and production systems.
+
+**Political-Economic**: The political and economic environment plays a crucial role in agriculture specially in our country. Also the economic dependency on agriculture and proportion of population economically active in agriculture is more in India.
 
 **Sociocultural**: Language differences and illiteracy becomes a factor which hinders the effectiveness of technological implementations in field. The division in labour force between sexes can change with cultural lines and it influences the nature of farming systems in different regions of country. In many regions the women are more into farm operations and off farm activities are done by men. According to regions the farmers required knowledge of different subject matter and so different strategies are required to transfer technology to them.
 
